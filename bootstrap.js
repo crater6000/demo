@@ -667,7 +667,8 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.viewport.WindowsPhone": [
     "Ext.viewport.WP"
   ],
-  "MyApp.view.MyPanel": []
+  "MyApp.view.MyPanel": [],
+  "MyApp.view.MyPanel2": []
 });
 
 Ext.ClassManager.addNameAliasMappings({
@@ -1399,7 +1400,8 @@ Ext.ClassManager.addNameAliasMappings({
   "Ext.viewport.Ios": [],
   "Ext.viewport.Viewport": [],
   "Ext.viewport.WindowsPhone": [],
-  "MyApp.view.MyPanel": []
+  "MyApp.view.MyPanel": [],
+  "MyApp.view.MyPanel2": []
 });
 
 
