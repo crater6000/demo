@@ -20,10 +20,6 @@ Ext.Loader.setConfig({
 
 
 Ext.application({
-    views: [
-        'MyPanel',
-        'MyPanel2'
-    ],
     name: 'MyApp',
 
     launch: function() {
