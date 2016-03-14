@@ -1,0 +1,49 @@
+{
+    "name": "senchademo",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "5.1.1.39",
+            "frameworkVersion": "2.4.0.482"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "http://localhost:1841",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "projectHasEnabledWebServer": true
+    },
+    "xdsVersion": "3.2.0",
+    "xdsBuild": 75,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "touch24",
+    "viewOrderMap": {
+        "view": [
+            "288c1f5e-880b-4871-8a53-c79f2920d934"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "d627486d-9547-4b72-8e20-d76c03a95b4a",
+            "a30b075e-190d-413c-9138-84013c516d1d"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
