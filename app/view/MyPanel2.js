@@ -16,7 +16,30 @@
 Ext.define('MyApp.view.MyPanel2', {
     extend: 'Ext.Panel',
 
+    requires: [
+        'Ext.tab.Panel'
+    ],
+
     config: {
+        items: [
+            {
+                xtype: 'tabpanel',
+                items: [
+                    {
+                        xtype: 'container',
+                        title: 'Tab 1'
+                    },
+                    {
+                        xtype: 'container',
+                        title: 'Tab 2'
+                    },
+                    {
+                        xtype: 'container',
+                        title: 'Tab 3'
+                    }
+                ]
+            }
+        ]
     }
 
 });
