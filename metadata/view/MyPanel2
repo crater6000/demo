@@ -9,58 +9,5 @@
         "designer|userClassName": "MyPanel2"
     },
     "name": "MyPanel2",
-    "designerId": "bc39d267-524a-41e6-b1ba-ccc4818b15d6",
-    "cn": [
-        {
-            "type": "Ext.tab.Panel",
-            "reference": {
-                "name": "items",
-                "type": "array"
-            },
-            "codeClass": null,
-            "name": "MyTabPanel",
-            "designerId": "a0300828-643d-4e83-88b3-184289d0d7aa",
-            "cn": [
-                {
-                    "type": "Ext.Container",
-                    "reference": {
-                        "name": "items",
-                        "type": "array"
-                    },
-                    "codeClass": null,
-                    "userConfig": {
-                        "title": "Tab 1"
-                    },
-                    "name": "MyContainer",
-                    "designerId": "b58e7a4c-171e-4420-a1fa-44bd690ba9fd"
-                },
-                {
-                    "type": "Ext.Container",
-                    "reference": {
-                        "name": "items",
-                        "type": "array"
-                    },
-                    "codeClass": null,
-                    "userConfig": {
-                        "title": "Tab 2"
-                    },
-                    "name": "MyContainer1",
-                    "designerId": "db9a0e91-801f-452a-833d-e9b2a0f6c5ca"
-                },
-                {
-                    "type": "Ext.Container",
-                    "reference": {
-                        "name": "items",
-                        "type": "array"
-                    },
-                    "codeClass": null,
-                    "userConfig": {
-                        "title": "Tab 3"
-                    },
-                    "name": "MyContainer2",
-                    "designerId": "090ba585-d52f-4495-ba63-5b14fb189942"
-                }
-            ]
-        }
-    ]
+    "designerId": "bc39d267-524a-41e6-b1ba-ccc4818b15d6"
 }
