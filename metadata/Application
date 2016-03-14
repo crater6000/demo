@@ -8,7 +8,8 @@
     "userConfig": {
         "name": "MyApp",
         "views": [
-            "MyPanel"
+            "MyPanel",
+            "MyPanel2"
         ]
     },
     "name": "Application",

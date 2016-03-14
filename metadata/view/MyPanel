@@ -10,5 +10,33 @@
         "designer|userClassName": "MyPanel"
     },
     "name": "MyPanel",
-    "designerId": "288c1f5e-880b-4871-8a53-c79f2920d934"
+    "designerId": "288c1f5e-880b-4871-8a53-c79f2920d934",
+    "cn": [
+        {
+            "type": "Ext.Button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "text": "MyButton"
+            },
+            "name": "MyButton",
+            "designerId": "f34d92eb-5585-4036-8b93-3e0ac56a1972"
+        },
+        {
+            "type": "Ext.Button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "text": "MyButton1"
+            },
+            "name": "MyButton1",
+            "designerId": "d340f021-353c-4fe0-9c0e-a0234477116c"
+        }
+    ]
 }
