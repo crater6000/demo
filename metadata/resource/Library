@@ -1,0 +1,15 @@
+{
+    "type": "libraryresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "basePath": "touch/",
+        "designer|userClassName": "Library",
+        "theme": "MyCupertinoClassicTheme"
+    },
+    "name": "Library",
+    "designerId": "d627486d-9547-4b72-8e20-d76c03a95b4a"
+}
